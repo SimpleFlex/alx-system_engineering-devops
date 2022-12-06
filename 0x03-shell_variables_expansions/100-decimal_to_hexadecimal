@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(($BREATH ** $LOVE))"
+rintf '%x\n' $DECIMAL
